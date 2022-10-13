@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "494736230858",
+    "project_id": "padayon-8b933",
+    "storage_bucket": "padayon-8b933.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:494736230858:android:66fd9df9a64d246af46733",
+        "android_client_info": {
+          "package_name": "com.example.padayon"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "494736230858-ml5sqtrn31bcd4fpltknn2bosbo99pgp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzNnf6bEaqRzwrZ_ZZjiKLoEkZE0jaK1Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "494736230858-ml5sqtrn31bcd4fpltknn2bosbo99pgp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

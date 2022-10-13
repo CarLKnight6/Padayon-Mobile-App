@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">494736230858-ml5sqtrn31bcd4fpltknn2bosbo99pgp.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">494736230858</string>
+    <string name="google_api_key" translatable="false">AIzaSyCzNnf6bEaqRzwrZ_ZZjiKLoEkZE0jaK1Y</string>
+    <string name="google_app_id" translatable="false">1:494736230858:android:66fd9df9a64d246af46733</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCzNnf6bEaqRzwrZ_ZZjiKLoEkZE0jaK1Y</string>
+    <string name="google_storage_bucket" translatable="false">padayon-8b933.appspot.com</string>
+    <string name="project_id" translatable="false">padayon-8b933</string>
+</resources>

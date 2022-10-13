@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "D:\\schoolworks\\capstone 2\\for defense\\padayonapp\\padayon\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable_app_icon.png.flat",
+        "source": "D:\\schoolworks\\capstone 2\\for defense\\padayonapp\\padayon\\android\\app\\src\\main\\res\\drawable\\app_icon.png"
+    },
+    {
+        "merged": "D:\\schoolworks\\capstone 2\\for defense\\padayonapp\\padayon\\android\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "D:\\schoolworks\\capstone 2\\for defense\\padayonapp\\padayon\\android\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\schoolworks\\capstone 2\\for defense\\padayonapp\\padayon\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-v21_launch_background.xml.flat",
+        "source": "D:\\schoolworks\\capstone 2\\for defense\\padayonapp\\padayon\\android\\app\\src\\main\\res\\drawable-v21\\launch_background.xml"
+    },
+    {
+        "merged": "D:\\schoolworks\\capstone 2\\for defense\\padayonapp\\padayon\\android\\app\\build\\intermediates\\res\\merged\\release\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "D:\\schoolworks\\capstone 2\\for defense\\padayonapp\\padayon\\android\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\schoolworks\\capstone 2\\for defense\\padayonapp\\padayon\\android\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "D:\\schoolworks\\capstone 2\\for defense\\padayonapp\\padayon\\android\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\schoolworks\\capstone 2\\for defense\\padayonapp\\padayon\\android\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "D:\\schoolworks\\capstone 2\\for defense\\padayonapp\\padayon\\android\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\schoolworks\\capstone 2\\for defense\\padayonapp\\padayon\\android\\app\\build\\intermediates\\res\\merged\\release\\mipmap_padayon_icon.png.flat",
+        "source": "D:\\schoolworks\\capstone 2\\for defense\\padayonapp\\padayon\\android\\app\\src\\main\\res\\mipmap\\padayon_icon.png"
+    },
+    {
+        "merged": "D:\\schoolworks\\capstone 2\\for defense\\padayonapp\\padayon\\android\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "D:\\schoolworks\\capstone 2\\for defense\\padayonapp\\padayon\\android\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\schoolworks\\capstone 2\\for defense\\padayonapp\\padayon\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable_padayon_icon.png.flat",
+        "source": "D:\\schoolworks\\capstone 2\\for defense\\padayonapp\\padayon\\android\\app\\src\\main\\res\\drawable\\padayon_icon.png"
+    }
+]
